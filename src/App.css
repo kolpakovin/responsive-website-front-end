@@ -7,3 +7,6 @@
 body {
   font-family: "Josefin Sans", sans-serif;
 }
+ul {
+  margin: auto 0;
+}
