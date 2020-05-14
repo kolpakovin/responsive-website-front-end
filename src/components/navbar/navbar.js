@@ -16,7 +16,7 @@ const Navbar = props => {
                     <Link to='/' >Home</Link>
                 </li>
                 <li className="nav-links">
-                    <Link to='/' >Products</Link>
+                    <a href='#features' >Products</a>
                 </li>
                 <li className="nav-links">
                     <Link to='/' >About Us</Link>

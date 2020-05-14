@@ -8,6 +8,7 @@ import {
 } from "react-router-dom";
 import Navbar from './components/navbar/navbar';
 import Features from './components/features/features';
+import WorkExamples from './components/work-examples/work-examples'
 import Product from './components/product/product';
 
 const App = props => {
@@ -20,6 +21,7 @@ const App = props => {
           <Route path="/">
             <Product />
             <Features />
+            <WorkExamples />
             <h2> Bla Bla</h2>
             <h2> Bla Bla</h2>
             <h2> Bla Bla</h2>

@@ -27,6 +27,7 @@ const Features = props => {
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit maiores nam, aperiam minima assumenda deleniti hic.</p>
                 </div>
             </div>
+            <div className="containter-border"></div>
         </main>
     )
 }

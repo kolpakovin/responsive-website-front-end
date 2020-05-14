@@ -11,3 +11,16 @@ body {
 ul {
   margin: auto 0;
 }
+h2 {
+  font-weight: 700;
+  font-size: 2.5em;
+}
+h4{
+  margin-top: 5%;
+  font-weight: 700;
+}
+.containter-border {
+  border-top: 1px solid #dee2e6;
+  margin: 5% 0;
+}
+html { scroll-behavior: smooth; } 
