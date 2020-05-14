@@ -7,6 +7,7 @@ import {
   Route
 } from "react-router-dom";
 import Navbar from './components/navbar/navbar';
+import Features from './components/features/features';
 import Product from './components/product/product';
 
 const App = props => {
@@ -18,6 +19,7 @@ const App = props => {
         <Switch>
           <Route path="/">
             <Product />
+            <Features />
             <h2> Bla Bla</h2>
             <h2> Bla Bla</h2>
             <h2> Bla Bla</h2>
