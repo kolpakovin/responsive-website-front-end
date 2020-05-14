@@ -1,26 +1,49 @@
+@media screen and (min-width: 768px) {
+    #examples {
+        width: 80%;
+        text-align: center;
+        margin: 5% auto;
+    }
+    .examples {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        margin-top: 5%;
+    }
+    .examples img{
+        height: auto;
+        width: 100%;
+    }
+    .example {
+        padding: 15px;
+        text-align: center;
+    }
+    .examples p {
+        color: gray;
+        margin: 5% auto;
+        width: 75%;
+        text-align: center;
+    }
+    .containter-border {
+        border-top: 1px solid #dee2e6;
+    }
+}
+
 #examples {
     text-align: center;
     width: 80%;
     margin: 5% auto;
 }
+
 .examples {
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
     margin-top: 5%;
 }
 .examples img{
     height: auto;
     width: 100%;
 }
-.example {
-    padding: 15px;
-    text-align: center;
-}
 .examples p {
-    color: gray;
     margin: 5% auto;
-    width: 75%;
-    text-align: center;
+    width: 95%;
 }
 .containter-border {
     border-top: 1px solid #dee2e6;
