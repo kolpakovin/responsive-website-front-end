@@ -10,6 +10,7 @@ import Navbar from './components/navbar/navbar';
 import Features from './components/features/features';
 import WorkExamples from './components/work-examples/work-examples'
 import Product from './components/product/product';
+import ContactUs from './components/contact/contact'
 
 const App = props => {
   return (
@@ -22,6 +23,7 @@ const App = props => {
             <Product />
             <Features />
             <WorkExamples />
+            <ContactUs />
             <h2> Bla Bla</h2>
             <h2> Bla Bla</h2>
             <h2> Bla Bla</h2>
