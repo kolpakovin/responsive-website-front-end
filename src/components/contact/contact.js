@@ -21,7 +21,17 @@ const ContactUs = props => {
                     </div>
                     <button>SEND</button>
                 </form>
-                <div className='info-grig'>HI</div>
+                <div className='info-grig'>
+                    <div className='info-item'>
+                        <i className="fa fa-map fa-1x"></i><p>New York, NY < br/> 10012</p>
+                    </div>
+                    <div className='info-item'>
+                        <i className="fa fa-building fa-1x "></i><p>Mon - Fri, 8:00- < br/> 22:00</p>
+                    </div>
+                    <div className='info-item'>
+                        <i className="fa fa-phone fa-1x"></i><p>+ 01 234 567 89</p>
+                    </div>
+                </div>
             </div>
 
         </section>
