@@ -125,6 +125,7 @@
     border: none;
     border-bottom: 1px solid #ced4da;
     outline: none;
+    padding-left: 10px;
 }
 .text-area textarea:focus {
     border-bottom: 2px solid #43438a    
