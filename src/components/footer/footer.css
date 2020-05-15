@@ -1,0 +1,20 @@
+#footer {
+    padding: 15px 80px;
+    background-color: #1c2331;
+    color: #fff;
+}
+.footer-items {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    list-style: none;
+}
+.footer-item p, .footer-item li, .footer-item h6 {
+    margin: 10px 0;
+}
+.footer-item {
+    list-style: none;
+}
+.title-border {
+    width: 50px;
+    border-top: 1px solid #7a4fff;
+}

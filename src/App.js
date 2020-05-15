@@ -12,6 +12,7 @@ import WorkExamples from './components/work-examples/work-examples'
 import Product from './components/product/product';
 import ContactUs from './components/contact/contact';
 import Network from './components/network/network';
+import Footer from './components/footer/footer'
 
 const App = props => {
   return (
@@ -26,6 +27,7 @@ const App = props => {
             <WorkExamples />
             <ContactUs />
             <Network />
+            <Footer />
             <h2> Bla Bla</h2>
             <h2> Bla Bla</h2>
             <h2> Bla Bla</h2>
