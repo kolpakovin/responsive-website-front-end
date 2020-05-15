@@ -28,24 +28,8 @@ const App = props => {
             <ContactUs />
             <Network />
             <Footer />
-            <h2> Bla Bla</h2>
-            <h2> Bla Bla</h2>
-            <h2> Bla Bla</h2>
-            <h2> Bla Bla</h2>
-            <h2> Bla Bla</h2>
-            <h2> Bla Bla</h2>
-            <h2> Bla Bla</h2>
-            <h2> Bla Bla</h2>
-            <h2> Bla Bla</h2>
           </Route>
-          {/* <Route path="/users">
-            <Users />
-          </Route>
-          <Route path="/">
-            <Home />
-          </Route> */}
         </Switch>
-        
       </Router>
     </div >
   );
