@@ -34,8 +34,8 @@ const ContactUs = props => {
                         </div>
                     </div>
                     <div>
-                    <iframe src={`https://maps.google.com/maps?q=Netanya&t=&z=13&ie=UTF8&iwloc=&output=embed`}
-                       style={{border:"0"}} title={'googleMaps'}/>
+                        <iframe src={`https://maps.google.com/maps?q=Netanya&t=&z=13&ie=UTF8&iwloc=&output=embed`}
+                            style={{ border: "0" }} title={'googleMaps'} />
                     </div>
                 </div>
 

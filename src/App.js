@@ -10,7 +10,8 @@ import Navbar from './components/navbar/navbar';
 import Features from './components/features/features';
 import WorkExamples from './components/work-examples/work-examples'
 import Product from './components/product/product';
-import ContactUs from './components/contact/contact'
+import ContactUs from './components/contact/contact';
+import Network from './components/network/network';
 
 const App = props => {
   return (
@@ -24,6 +25,7 @@ const App = props => {
             <Features />
             <WorkExamples />
             <ContactUs />
+            <Network />
             <h2> Bla Bla</h2>
             <h2> Bla Bla</h2>
             <h2> Bla Bla</h2>
