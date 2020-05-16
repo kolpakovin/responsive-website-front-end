@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/responsive-website-front-end/static/css/main.eea9dc17.chunk.css",
+    "main.css": "/responsive-website-front-end/static/css/main.c0a7792a.chunk.css",
     "main.js": "/responsive-website-front-end/static/js/main.a90c96be.chunk.js",
     "main.js.map": "/responsive-website-front-end/static/js/main.a90c96be.chunk.js.map",
     "runtime-main.js": "/responsive-website-front-end/static/js/runtime-main.db5a50de.js",
@@ -8,15 +8,16 @@
     "static/js/2.ae171c3e.chunk.js": "/responsive-website-front-end/static/js/2.ae171c3e.chunk.js",
     "static/js/2.ae171c3e.chunk.js.map": "/responsive-website-front-end/static/js/2.ae171c3e.chunk.js.map",
     "index.html": "/responsive-website-front-end/index.html",
-    "precache-manifest.7e83379aca4baf6e1044e62f894f045d.js": "/responsive-website-front-end/precache-manifest.7e83379aca4baf6e1044e62f894f045d.js",
+    "precache-manifest.2f14fe7c4d1a3279a58374418acbfe75.js": "/responsive-website-front-end/precache-manifest.2f14fe7c4d1a3279a58374418acbfe75.js",
     "service-worker.js": "/responsive-website-front-end/service-worker.js",
-    "static/css/main.eea9dc17.chunk.css.map": "/responsive-website-front-end/static/css/main.eea9dc17.chunk.css.map",
-    "static/js/2.ae171c3e.chunk.js.LICENSE.txt": "/responsive-website-front-end/static/js/2.ae171c3e.chunk.js.LICENSE.txt"
+    "static/css/main.c0a7792a.chunk.css.map": "/responsive-website-front-end/static/css/main.c0a7792a.chunk.css.map",
+    "static/js/2.ae171c3e.chunk.js.LICENSE.txt": "/responsive-website-front-end/static/js/2.ae171c3e.chunk.js.LICENSE.txt",
+    "static/media/product.css": "/responsive-website-front-end/static/media/backgroundImage.2d8e8d85.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.db5a50de.js",
     "static/js/2.ae171c3e.chunk.js",
-    "static/css/main.eea9dc17.chunk.css",
+    "static/css/main.c0a7792a.chunk.css",
     "static/js/main.a90c96be.chunk.js"
   ]
 }
