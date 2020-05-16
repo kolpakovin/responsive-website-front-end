@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/responsive-website-front-end/static/css/main.eea9dc17.chunk.css",
+    "main.js": "/responsive-website-front-end/static/js/main.a90c96be.chunk.js",
+    "main.js.map": "/responsive-website-front-end/static/js/main.a90c96be.chunk.js.map",
+    "runtime-main.js": "/responsive-website-front-end/static/js/runtime-main.db5a50de.js",
+    "runtime-main.js.map": "/responsive-website-front-end/static/js/runtime-main.db5a50de.js.map",
+    "static/js/2.ae171c3e.chunk.js": "/responsive-website-front-end/static/js/2.ae171c3e.chunk.js",
+    "static/js/2.ae171c3e.chunk.js.map": "/responsive-website-front-end/static/js/2.ae171c3e.chunk.js.map",
+    "index.html": "/responsive-website-front-end/index.html",
+    "precache-manifest.7e83379aca4baf6e1044e62f894f045d.js": "/responsive-website-front-end/precache-manifest.7e83379aca4baf6e1044e62f894f045d.js",
+    "service-worker.js": "/responsive-website-front-end/service-worker.js",
+    "static/css/main.eea9dc17.chunk.css.map": "/responsive-website-front-end/static/css/main.eea9dc17.chunk.css.map",
+    "static/js/2.ae171c3e.chunk.js.LICENSE.txt": "/responsive-website-front-end/static/js/2.ae171c3e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db5a50de.js",
+    "static/js/2.ae171c3e.chunk.js",
+    "static/css/main.eea9dc17.chunk.css",
+    "static/js/main.a90c96be.chunk.js"
+  ]
+}
